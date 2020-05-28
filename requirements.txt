@@ -1,7 +1,2 @@
-numpy
-sklearn
-pandas
-flask
-scipy
-pickle-mixin
-imblearn
+Flask==1.1.2
+google-cloud-datastore==1.12.0
